@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH408 - Contemporary Art"
+course: ARTH408
+course_fulltitle: "Contemporary Art"
+course_description: "Survey of contemporary art and visual culture from the 1960 to 2010 in both the western and global context, with particular emphasis on the specific aesthetic and social issues of the contemporary period."
+---
 **Unit 1: Modernism in the Sixties** <span id="1"></span> 
 *In this unit, we will start by exploring the New York art scene and
 looking at why a majority of artists and the general public came to feel
