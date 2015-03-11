@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "ARTH408: Contemporary Art"
@@ -6,6 +7,8 @@ next: ../Unit03
 previous: ../Unit01
 bgimage: arth408.jpg
 ---
+=======
+>>>>>>> master
 **Unit 2: Contesting Modernism: Art Beyond Painting and Sculpture**
 <span id="2"></span> 
 

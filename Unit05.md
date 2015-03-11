@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "ARTH408: Contemporary Art"
@@ -6,6 +7,8 @@ next: ../Unit06
 previous: ../Unit04
 bgimage: arth408.jpg
 ---
+=======
+>>>>>>> master
 **Unit 5: Art and the Public Sphere** <span id="5"></span> 
 *The term “public sphere” is used to describe different public spaces,
 not necessarily physical spaces, where people can congregate freely to

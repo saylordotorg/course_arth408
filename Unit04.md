@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "ARTH408: Contemporary Art"
@@ -6,6 +7,8 @@ next: ../Unit05
 previous: ../Unit03
 bgimage: arth408.jpg
 ---
+=======
+>>>>>>> master
 **Unit 4: Postmodernist Rhetoric: Return to Painting and Object or
 Further Questioning?** <span id="4"></span> 
 *With an increasing presence of technology and shifting global

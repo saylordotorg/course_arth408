@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "ARTH408: Contemporary Art"
@@ -6,6 +7,8 @@ next: ../Unit02
 previous: ../Intro
 bgimage: arth408.jpg
 ---
+=======
+>>>>>>> master
 **Unit 1: Modernism in the Sixties** <span id="1"></span> 
 *In this unit, we will start by exploring the New York art scene and
 looking at why a majority of artists and the general public came to feel

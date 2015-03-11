@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "ARTH408: Contemporary Art"
@@ -6,6 +7,8 @@ next: ../Unit08
 previous: ../Unit06
 bgimage: arth408.jpg
 ---
+=======
+>>>>>>> master
 **Unit 7: Contemporary Art in the Global World** <span id="7"></span> 
 *The 21st century ushered the world of art into the global arena, where
 there is no single specific art center or one specific art technique to

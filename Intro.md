@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "ARTH408: Contemporary Art"
@@ -6,6 +7,8 @@ next: ../Unit01
 previous: ../../../
 bgimage: arth408.jpg
 ---
+=======
+>>>>>>> master
 Course Syllabus for "ARTH408: Contemporary Art"
 -----------------------------------------------
 
