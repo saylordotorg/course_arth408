@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: "ARTH408: Contemporary Art"
@@ -7,8 +6,6 @@ next: ../Unit07
 previous: ../Unit05
 bgimage: arth408.jpg
 ---
-=======
->>>>>>> master
 **Unit 6: Narrating Identity** <span id="6"></span> 
 *1989 was a watershed year. For many, the fall of the Berlin Wall
 symbolized the end of the Cold War and a final victory of capitalism,

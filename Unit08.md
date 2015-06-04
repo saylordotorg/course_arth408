@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: "ARTH408: Contemporary Art"
@@ -7,8 +6,6 @@ next: ../../../
 previous: ../Unit08
 bgimage: arth408.jpg
 ---
-=======
->>>>>>> master
 **Unit 8: Final Exam** <span id="8"></span> 
 -   **Final Exam: The Saylor Foundation's ARTH408 Final Exam**
     Link: The Saylor Foundation's [ARTH408 Final

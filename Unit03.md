@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: "ARTH408: Contemporary Art"
@@ -7,8 +6,6 @@ next: ../Unit04
 previous: ../Unit02
 bgimage: arth408.jpg
 ---
-=======
->>>>>>> master
 **Unit 3: Expanding Fields and Contesting Stereotypes** <span
 id="3"></span> 
 *Following the women’s liberation movement (second-wave feminism) coming
