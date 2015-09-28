@@ -204,3 +204,4 @@ section is prefaced with a detailed and relevant introduction.
 - [Unit 6](https://legacy.saylor.org/arth408/Unit06/)
 - [Unit 7](https://legacy.saylor.org/arth408/Unit07/)
 - [Unit 8](https://legacy.saylor.org/arth408/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH408/ARTH408-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH408/ARTH408-FinalExam-Answers.html)
