@@ -126,7 +126,7 @@ Upon successful completion of this unit, the student will be able to:
 **3.1.3 Louise Bourgeois** <span id="3.1.3"></span> 
 -   **Reading: The Art Story: “Louise Bourgeois”**
     Link: The Art Story: “[Louise
-    Bourgeois](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH408-3.1.3-Louise-Bourgeois.pdf%20)”
+    Bourgeois](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH408-3.1.3-Louise-Bourgeois.pdf%20)”
     (PDF)  
       
      Instructions: Please read this entire webpage for an introduction
