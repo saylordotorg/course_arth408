@@ -181,10 +181,10 @@ Formalism)** <span id="1.2.1"></span> 
     Formalism” and The Art Story’s “Art Critics Comparison: Clement
     Greenberg vs. Harold Rosenberg”**
     Links: The Art Story: Justin Wolf’s “[Modern Art Concept:
-    Formalism](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH408-1.2.1-Justin-Wolf%E2%80%99s-Modern-Art-Concept-Formalism.pdf)”
+    Formalism](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH408-1.2.1-Justin-Wolf%E2%80%99s-Modern-Art-Concept-Formalism.pdf)”
     (PDF), and The Art Story’s “[Art Critics Comparison: Clement
     Greenberg vs. Harold
-    Rosenberg](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH408-1.2.1-The-Art-Story-Clement-Greenberg-vs-Harold-Rosenberg.pdf)”
+    Rosenberg](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH408-1.2.1-The-Art-Story-Clement-Greenberg-vs-Harold-Rosenberg.pdf)”
     (PDF)  
       
      Instructions: Please read the first page as an introduction to
@@ -212,7 +212,7 @@ id="1.2.2"></span> 
 -   **Reading: The Art Story: Justin Wolf: “Post-Painterly
     Abstraction”**
     Links: The Art Story: Justin Wolf:
-    “[Post-](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH408-1.2.2-Post-Painterly-Abstraction.pdf)[Painterly Abstraction](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH408-1.2.2-Post-Painterly-Abstraction.pdf)”
+    “[Post-](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH408-1.2.2-Post-Painterly-Abstraction.pdf)[Painterly Abstraction](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH408-1.2.2-Post-Painterly-Abstraction.pdf)”
     (PDF)  
         
      Instructions: Please read the entire article for an introduction to
@@ -236,7 +236,7 @@ id="1.2.2"></span> 
 <span id="1.2.3"></span> 
 -   **Reading: The Art Story: Jessica Shaffer: “Helen Frankenthaler”**
     Link: The Art Story: Jessica Shaffer: “[Helen
-    Frankenthaler](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH408-1.2.3-Helen-Frankenthaler1.pdf)”
+    Frankenthaler](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH408-1.2.3-Helen-Frankenthaler1.pdf)”
     (PDF)  
       
      Instructions: Please read this entire webpage for an introduction
