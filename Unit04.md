@@ -75,7 +75,7 @@ Upon successful completion of this unit, the student will be able to:
 **4.2.1 Neo-Expressionism** <span id="4.2.1"></span> 
 -   **Reading: The Art Story: Justin Wolf: “Neo-Expressionism”**
     Link: The Art Story: Justin Wolf:
-    “[Neo-Expressionism](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH408-4.2.1-Neo-Expressionism.pdf)”
+    “[Neo-Expressionism](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ARTH408-4.2.1-Neo-Expressionism.pdf)”
     (PDF)  
       
      Instructions: Please read this entire webpage for an introduction
@@ -133,7 +133,7 @@ Upon successful completion of this unit, the student will be able to:
 **4.2.1.3 Georg Baselitz** <span id="4.2.1.3"></span> 
 -   **Reading: The Art Story: “Georg Baselitz”**
     Link: The Art Story: “[Georg
-    Baselitz](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH408-4.2.1.3-Greorg-Baselitz.pdf)”
+    Baselitz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ARTH408-4.2.1.3-Greorg-Baselitz.pdf)”
     (PDF)  
       
      Instructions: Please read this entire webpage for an introduction

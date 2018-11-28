@@ -259,7 +259,7 @@ id="2.2.2.3"></span> 
 -   **Reading: The Art Story: “Joseph Beuys” and Flash Art: Giancarlo
     Politi: “Joseph Beuys: We Are the Revolution”**
     Links: The Art Story:
-    “[Joseph Beuys](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH408-2.2.2.3-Joseph-Beuys.pdf%20)”
+    “[Joseph Beuys](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ARTH408-2.2.2.3-Joseph-Beuys.pdf%20)”
     (PDF) and *Flash Art*: Giancarlo Politi: “[Joseph Beuys:
     We Are the Revolution](http://www.flashartonline.com/interno.php?pagina=articolo_det&id_art=365&det=ok&title=JOSEPH-BEUYS)”
     (HTML)  
@@ -302,7 +302,7 @@ id="2.3.1"></span> 
 **2.3.2 Other Dematerialized Artworks** <span id="2.3.2"></span> 
 -   **Reading: The Art Story: Justin Wolf’s “Conceptual Art”**
     Link: The Art Story: Justin Wolf’s “[Conceptual
-    Art](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH408-2.3.2-Justin-Wolf%E2%80%99s-Conceptual-Art.pdf)”  
+    Art](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH408-2.3.2-Justin-Wolf%E2%80%99s-Conceptual-Art.pdf)”  
       
      Instructions: Please read this page as an introduction to
     Conceptual art. When you are finished, click on the link at the
@@ -381,7 +381,7 @@ id="2.3.1"></span> 
 -   **Reading: The Art Story: Justin Wolf: “Robert Smithson” and Robert
     Smithson: “Cultural Confinement”**
     Links: The Art Story: Justin Wolf: “[Robert
-    Smithson](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH408-2.3.2.3-Robert-Smithson.pdf)”
+    Smithson](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ARTH408-2.3.2.3-Robert-Smithson.pdf)”
     (PDF) and Robert Smithson: “[Cultural
     Confinement](http://www.robertsmithson.com/essays/cultural.htm)”
     (HTML)  

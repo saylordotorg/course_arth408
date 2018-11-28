@@ -76,7 +76,7 @@ Introduction.** <span id="7.1"></span> 
 **7.2.1 The Yes Men** <span id="7.2.1"></span> 
 -   **Reading: The Art Story: Anne Marie Butler: “Performance Art”**
     Link: The Art Story: Anne Marie Butler: “[Performance
-    Art](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH408-7.2.1-Performance-Art.pdf)”
+    Art](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ARTH408-7.2.1-Performance-Art.pdf)”
     (PDF)  
       
      Instructions: Please read this entire webpage for a brief
